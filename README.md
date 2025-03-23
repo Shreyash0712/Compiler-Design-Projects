@@ -4,7 +4,7 @@ Lexical Visualizer : This is a tkinter project that classifies tokens into ident
 
 ![image](https://github.com/user-attachments/assets/5794e8a5-84c3-41f9-ae6c-bf5ca37ea9bc)
 
-Left Factoring Elimination : This project removes ambihuity from context free Grammar so that it can be parsed into LL(1) parser.
+Left Factoring Elimination : This project removes ambiguity from context free Grammar so that it can be parsed into LL(1) parser.
 
 ![image](https://github.com/user-attachments/assets/43fa5afd-d19c-44fd-888d-e68f6a01250b)
 
